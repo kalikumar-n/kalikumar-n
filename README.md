@@ -1,14 +1,14 @@
 #### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 
-I'm a Ruby on Rails developer | ᴛᴇᴄʜɴᴏᴘʜɪʟᴇ 👨🏻‍💻 | Crypto-Enthusiasts ♾️ | Backurself 👊
+I'm a Ruby on Rails developer | ᴛᴇᴄʜɴᴏᴘʜɪʟᴇ 👨🏻‍💻 | Crypto-Enthusiasts ♾️ | Astrophile 🧑‍🚀 | Backurself 👊 
 
     💻I'm currently working in Vakilsearch
 
     🧑‍🚒I'm challenging myself for solving 1000 problems on leetcode 
 
 
-Lets have a coffee ☕ to talk about tech and cryto
+Lets have a coffee ☕ to talk about tech ,space and Crypto
 
     Twitter 🐦 : https://twitter.com/kalikumar_17 
         
