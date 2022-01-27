@@ -15,9 +15,13 @@ Lets have a coffee ☕ to talk about tech,space and crypto
        
 ```js
 const kali = [
+
  Pronouns = 'He' | 'Him' 
+ 
  Languages = ['Java','Python' ,'Ruby', 'C', 'Javascript']
+ 
  Database = ['postgres','MySQL','SQLlite']
+ 
  Tools = ['Ruby on Rails' ,'Flask' ,'servlets' ,'Linux', 'Git & Github', 'HTML5 & CSS' ,'Ajax','JQuery' ,'Rubymine | Intellij']
  ]
 ```
