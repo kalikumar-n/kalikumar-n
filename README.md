@@ -9,9 +9,9 @@ I'm a Ruby on Rails developer|ᴛᴇᴄʜɴᴏᴘʜɪʟᴇ 👨🏻‍💻|Crypt
 
 Lets have a coffee ☕ to talk about tech and cryto
 
-        Twitter 🐦 : https://twitter.com/kalikumar_17 
+    Twitter 🐦 : https://twitter.com/kalikumar_17 
         
-        LinkedIn 🔗: https://www.linkedin.com/in/kali-kumar-n/
+    LinkedIn 🔗: https://www.linkedin.com/in/kali-kumar-n/
        
 What I'm 🙋‍♂ I always prefer swami vivekanda 🙏 words of 𝗟𝗲𝗮𝗿𝗻 𝗲𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 𝘁𝗵𝗮𝘁'𝘀 𝗴𝗼𝗼𝗱 𝗳𝗿𝗼𝗺 𝗼𝘁𝗵𝗲𝗿𝘀 𝗯𝘂𝘁 𝗯𝗿𝗶𝗻𝗴 𝗶𝗻 𝘆𝗼𝘂𝗿 𝗼𝘄𝗻 𝘄𝗮𝘆
 
