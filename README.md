@@ -1,5 +1,8 @@
-### Hi, I'm Kali 👋
+### Hi, I'm Kali 👋 
 
-I'm Ruby on Rails developer | TECHNOPHILE 💻 | Crypto Enthusiasts |
+I'm a Ruby on Rails developer|ᴛᴇᴄʜɴᴏᴘʜɪʟᴇ 👨🏻‍💻|Crypto-Enthusiasts ♾️ | Backurself 👊
 
+    💻I'm currently working in Vakilsearch
+
+    🧑‍🚒I'm challenging myself for solving 1000 problem on leetcode 
 
