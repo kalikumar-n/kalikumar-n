@@ -4,7 +4,9 @@
 I'm a Software developer | ᴛᴇᴄʜɴᴏᴘʜɪʟᴇ 👨🏻‍💻 | Crypto-Enthusiasts ♾️ | Astrophile 🧑‍🚀 | Backurself 👊 
 
     💻I'm currently working in Vakilsearch
-
+    
+    ⛓️I'm Looking for future in Blockchain
+    
     🧑‍🚒I'm challenging myself for solving 1000 problems on leetcode 
 
 Lets have a coffee ☕ to talk about tech,space and crypto
