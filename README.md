@@ -10,8 +10,7 @@ I'm a Ruby on Rails developer | ᴛᴇᴄʜɴᴏᴘʜɪʟᴇ 👨🏻‍💻 | C
 
 Lets have a coffee ☕ to talk about tech ,space and Crypto
 
-    Twitter 🐦 : https://twitter.com/kalikumar_17  https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-
+    Twitter 🐦 : https://twitter.com/kalikumar_17  https://img.shields.io/twitter/follow/kalikumar_17?style=social
         
     LinkedIn 🔗: https://www.linkedin.com/in/kali-kumar-n/
        
