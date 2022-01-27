@@ -13,6 +13,7 @@ Lets have a coffee ☕ to talk about tech,space and crypto
         
     LinkedIn 🔗: https://www.linkedin.com/in/kali-kumar-n/   
        
+What I know 🤔
 ```js
 const kali = [
 
