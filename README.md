@@ -1,6 +1,6 @@
 ### Hi, I'm Kali 👋 
 
-I'm a Ruby on Rails developer|ᴛᴇᴄʜɴᴏᴘʜɪʟᴇ 👨🏻‍💻|Crypto-Enthusiasts ♾️ | Backurself 👊
+I'm a Ruby on Rails developer | ᴛᴇᴄʜɴᴏᴘʜɪʟᴇ 👨🏻‍💻 | Crypto-Enthusiasts ♾️ | Backurself 👊
 
     💻I'm currently working in Vakilsearch
 
