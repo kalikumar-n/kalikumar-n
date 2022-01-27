@@ -1,7 +1,7 @@
 #### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 
-I'm a Ruby on Rails developer | ᴛᴇᴄʜɴᴏᴘʜɪʟᴇ 👨🏻‍💻 | Crypto-Enthusiasts ♾️ | Astrophile 🧑‍🚀 | Backurself 👊 
+I'm a Software developer | ᴛᴇᴄʜɴᴏᴘʜɪʟᴇ 👨🏻‍💻 | Crypto-Enthusiasts ♾️ | Astrophile 🧑‍🚀 | Backurself 👊 
 
     💻I'm currently working in Vakilsearch
 
