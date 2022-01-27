@@ -7,22 +7,28 @@ I'm a Ruby on Rails developer | ᴛᴇᴄʜɴᴏᴘʜɪʟᴇ 👨🏻‍💻 | C
 
     🧑‍🚒I'm challenging myself for solving 1000 problems on leetcode 
 
+Lets have a coffee ☕ to talk about tech,space and crypto
 
-Lets have a coffee ☕ to talk about tech ,space and Crypto
-
-    Twitter 🐦 : https://twitter.com/kalikumar_17  
+    Twitter 🐦 : https://twitter.com/kalikumar_17 
         
-    LinkedIn 🔗: https://www.linkedin.com/in/kali-kumar-n/
+    LinkedIn 🔗: https://www.linkedin.com/in/kali-kumar-n/   
        
-Fun facts 😅
-https://img.shields.io/twitter/follow/kalikumar_17?style=social
+```js
+const kali = [
+ pronouns = 'He' | 'Him' 
+ languages = ['Java','Python' ,'Ruby', 'C', 'Javascript']
+ Database = ['postgres','MySQL','SQLlite']
+ Tools = ['Ruby on Rails' ,'Flask' ,'servlets' ,'Linux', 'Git & Github', 'HTML5 & CSS' ,'Ajax','JQuery' ,'Rubymine | Intellij']
+ ]
+```
+
+Fun facts 😅  
 
      I always prefer swami vivekanda 🙏 words of 𝕷𝖊𝖆𝖗𝖓 𝖊𝖛𝖊𝖗𝖞𝖙𝖍𝖎𝖓𝖌 𝖙𝖍𝖆𝖙'𝖘 𝖌𝖔𝖔𝖉 𝖋𝖗𝖔𝖒 𝖔𝖙𝖍𝖊𝖗𝖘 𝖇𝖚𝖙 𝖇𝖗𝖎𝖓𝖌 𝖎𝖙 𝖎𝖓 𝖞𝖔𝖚𝖗 𝖔𝖜𝖓 𝖜𝖆𝖞
 
 
 
 
-          
   
 
 
