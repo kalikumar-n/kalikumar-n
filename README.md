@@ -10,11 +10,12 @@ I'm a Ruby on Rails developer | ᴛᴇᴄʜɴᴏᴘʜɪʟᴇ 👨🏻‍💻 | C
 
 Lets have a coffee ☕ to talk about tech ,space and Crypto
 
-    Twitter 🐦 : https://twitter.com/kalikumar_17  https://img.shields.io/twitter/follow/kalikumar_17?style=social
+    Twitter 🐦 : https://twitter.com/kalikumar_17  
         
     LinkedIn 🔗: https://www.linkedin.com/in/kali-kumar-n/
        
 Fun facts 😅
+https://img.shields.io/twitter/follow/kalikumar_17?style=social
 
      I always prefer swami vivekanda 🙏 words of 𝕷𝖊𝖆𝖗𝖓 𝖊𝖛𝖊𝖗𝖞𝖙𝖍𝖎𝖓𝖌 𝖙𝖍𝖆𝖙'𝖘 𝖌𝖔𝖔𝖉 𝖋𝖗𝖔𝖒 𝖔𝖙𝖍𝖊𝖗𝖘 𝖇𝖚𝖙 𝖇𝖗𝖎𝖓𝖌 𝖎𝖙 𝖎𝖓 𝖞𝖔𝖚𝖗 𝖔𝖜𝖓 𝖜𝖆𝖞
 
