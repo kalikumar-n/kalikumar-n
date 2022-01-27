@@ -5,7 +5,7 @@ I'm a Software developer | ᴛᴇᴄʜɴᴏᴘʜɪʟᴇ 👨🏻‍💻 | Crypto
 
     💻I'm currently working in Vakilsearch
     
-    ⛓️I'm Looking for future in Blockchain
+    ⛓️I'm Looking for a future in Blockchain
     
     🧑‍🚒I'm challenging myself for solving 1000 problems on leetcode 
 
