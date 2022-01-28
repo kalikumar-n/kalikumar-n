@@ -25,7 +25,7 @@ const kali = [
  
  Database = ['postgres','MySQL','SQLlite']
  
- Tools & Technologies = ['Ruby on Rails' ,'Flask' ,'servlets' ,'Linux', 'Git & Github', 'HTML5 & CSS' ,'Ajax','JQuery' ,'Rubymine | Intellij']
+ Tools & Technologies = ['Ruby on Rails' ,'Flask' ,'servlets' ,'Linux', 'Git & Github', 'HTML5 & CSS' ,'Ajax','JQuery']
  ]
 ```
 
