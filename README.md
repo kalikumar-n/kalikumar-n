@@ -2,7 +2,7 @@
 
 
 
-I'm a Software developer | ᴛᴇᴄʜɴᴏᴘʜɪʟᴇ 👨🏻‍💻 | Crypto-Enthusiasts ♾️ | Astrophile 🧑‍🚀 | Backurself 👊 
+I'm a Software developer | ᴛᴇᴄʜɴᴏᴘʜɪʟᴇ 👨🏻‍💻 | Crypto-Enthusiasts ♾️ | Astrophile 🧑‍🚀 |
 
     💻I'm currently working in Vakilsearch
     
