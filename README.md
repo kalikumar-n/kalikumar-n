@@ -2,7 +2,7 @@
 
 
 
-I'm a Software developer | ᴛᴇᴄʜɴᴏᴘʜɪʟᴇ 👨🏻‍💻 | Crypto-Enthusiasts ♾️ | Astrophile 🧑‍🚀 |
+I'm a Software developer | ᴛᴇᴄʜɴᴏᴘʜɪʟᴇ 👨🏻‍💻 | Crypto-Enthusiasts ♾️ | Astrophile 🧑‍🚀 
 
     💻I'm currently working in Vakilsearch
     
@@ -33,10 +33,5 @@ const kali = [
 Fun facts 😅  
 
      I always prefer swami vivekanda's 🙏 words of 𝕷𝖊𝖆𝖗𝖓 𝖊𝖛𝖊𝖗𝖞𝖙𝖍𝖎𝖓𝖌 𝖙𝖍𝖆𝖙'𝖘 𝖌𝖔𝖔𝖉 𝖋𝖗𝖔𝖒 𝖔𝖙𝖍𝖊𝖗𝖘 𝖇𝖚𝖙 𝖇𝖗𝖎𝖓𝖌 𝖎𝖙 𝖎𝖓 𝖞𝖔𝖚𝖗 𝖔𝖜𝖓 𝖜𝖆𝖞
-
-
-
-
-  
 
 
