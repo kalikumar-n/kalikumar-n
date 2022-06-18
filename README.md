@@ -1,4 +1,4 @@
-#### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="2px">
+#### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="200px">
 
 
 I'm a Software developer | ᴛᴇᴄʜɴᴏᴘʜɪʟᴇ 👨🏻‍💻 | Crypto-Enthusiasts ♾️ | Astrophile 🧑‍🚀 | Backurself 👊 
